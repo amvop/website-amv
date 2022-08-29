@@ -17,10 +17,10 @@ export const links = [
     text: "Blogs",
     link: "/blog",
   },
-  {
-    text: "Careers",
-    link: "/registration",
-  },
+  // {
+  //   text: "Careers",
+  //   link: "/registration",
+  // },
 ];
 
 export const socials = [

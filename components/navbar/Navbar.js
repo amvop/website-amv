@@ -9,6 +9,7 @@ import {
   useColorModeValue,
   useBreakpointValue,
   useDisclosure,
+  Image,
 } from "@chakra-ui/react";
 import { HamburgerIcon, CloseIcon } from "@chakra-ui/icons";
 import DesktopNav from "@components/navbar/DesktopNav";
@@ -95,14 +96,7 @@ export default function Navbar() {
           />
         </Flex>
         <Flex flex={{ base: 1 }} justify={{ base: "center", md: "start" }}>
-          <Text
-            textAlign={useBreakpointValue({ base: "center", md: "left" })}
-            fontFamily={"heading"}
-            color={"white"}
-          >
-            Logo
-          </Text>
-
+          <Image src="./asset/logo_amv.png" alt="logo amv" width={"20"} />
           <Flex display={{ base: "none", md: "flex" }} ml={10}>
             <DesktopNav navItems={NAV_ITEMS} />
           </Flex>
