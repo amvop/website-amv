@@ -14,7 +14,7 @@ const SectionMember = ({ division }) => {
         <h1 className="text-4xl font-bold leading-none text-center sm:text-5xl">
           {division.sub_description}
         </h1>
-        <div className="flex flex-row flex-wrap-reverse justify-center mt-8">
+        <div className="flex flex-row flex-wrap justify-center mt-8">
           {division.members.map((item) => (
             <CardMember key={item.name} member={item} />
           ))}

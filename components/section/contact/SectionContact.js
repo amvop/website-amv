@@ -22,13 +22,12 @@ const SectionContact = () => {
               <p
                 isExternal
                 href=""
-                className="text-xl font-medium text-primary-500"
+                className="className= text-2xl font-bold text-primary-500 mb-2"
               >
-                +688381932332
+                Address
               </p>
               <address className="mt-2 not-italic">
-                Jl. Margonda Raya, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa
-                Barat 16424
+                Lt. 7 Gedung B, Pusgiwa (Pusat Kegiatan Mahasiswa) Baru, Universitas Indonesia, Kota Depok 16425
               </address>
             </div>
 
