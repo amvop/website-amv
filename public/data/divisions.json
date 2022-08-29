@@ -1,0 +1,38 @@
+{
+  "executive": {
+    "description": "The people who are in charge of maintaining the Autonomous Marine Vehicle!",
+    "is_header": false,
+    "sub_description": "Who is the captain?",
+    "name": "Executive",
+    "code": "ex"
+  },
+  "artificial_intelligence": {
+    "description": "Nobody! Our ships are fully autonomous and that’s because we have the best AI Engineers! They are responsible for producing the control system and autonomous algorithm into our ships. These dudes to our ships are the helmsman to others!",
+    "is_header": true,
+    "name": "AI Engineer",
+    "sub_description": "Huh, who’s sailing this ship?",
+    "code": "ai"
+  },
+  "electrical": {
+    "description": "These guys did! The electrical system and wiring of our ships are all created by the electrical engineers. This include the powering system, electrical motor system, communication system, and all those zappy and stinging stuffs!",
+    "is_header": true,
+    "title": "",
+    "name": "Electrical Engineer",
+    "sub_description": "Oh, who did these beautiful wirings?",
+    "code": "el"
+  },
+  "managerial": {
+    "description": "Managerial is the one who keep things moving on boat! They manage our project, mark the X to our treasure map, and keep us glamoring ready for all the upcomings challenges out there! ",
+    "is_header": true,
+    "name": "Managerial",
+    "sub_description": "Kid! You should not underestimate these people.",
+    "code": "mg"
+  },
+  "mechanical": {
+    "description": "Kid! Speak no dilly-dally. The mechanical engineers make the sturdiest ship across the seven oceans. They do all the design, calculation, outfitting, analysis, and even the production of our ships. Sink who? We don’t know her!",
+    "is_header": true,
+    "name": "Mechanical Engineer",
+    "sub_description": "Ahoy, captain! Won’t this ship sink?",
+    "code": "mc"
+  }
+}

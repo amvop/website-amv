@@ -1,0 +1,126 @@
+{
+  "ai_1": {
+    "linkedin": "https://www.linkedin.com/in/evanzzer/",
+    "major": "Computer Engineering 19",
+    "name": "Evans Herbert",
+    "position": "Head of Artificial Intelligence",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FEvans_1.png?alt=media&token=01cc661c-fa65-462f-9335-ac66bb347ea6"
+  },
+  "ai_2": {
+    "major": "Computer Science 19",
+    "name": "Prajna Prasetya",
+    "position": "Vice Head of Artificial Intelligence",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FPrajna_1.png?alt=media&token=965fcab6-8b65-4f24-85b5-0b8307e4b078"
+  },
+  "ai_3": {
+    "linkedin": "https://www.linkedin.com/in/rizky-rivaldi-ramadhan-68895b206/",
+    "major": "Electrical Engineering 20",
+    "name": "Rizky Rivaldi",
+    "position": "Staff of Artificial Intelligence",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FMemet_1.png?alt=media&token=aa09002f-1c8a-417f-95e2-492680877c77"
+  },
+  "ai_4": {
+    "linkedin": "https://www.linkedin.com/in/virdian-harun-prayoga-b99aa3212/",
+    "major": "Computer Science 20",
+    "name": "Virdian Harun Prayoga",
+    "position": "Staff of Artificial Intelligence",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FVirdi_1.png?alt=media&token=cea9674c-4b6b-45c1-b511-5e34cf41730d"
+  },
+  "ai_5": {
+    "linkedin": "https://www.linkedin.com/in/glenefelix/",
+    "major": "Actuarial 20",
+    "name": "Glene Felix",
+    "position": "Staff of Artificial Intelligence",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FGlene_1.png?alt=media&token=9d18ec89-4b86-424e-b93a-d2d9ace04d52"
+  },
+  "el_1": {
+    "linkedin": "https://www.linkedin.com/in/m-akbar-attallah-9b03431a1/",
+    "major": "Electrical Engineering 19",
+    "name": "Muhammad Akbar Attalah",
+    "position": "Head of Electrical",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2Fbartol_1.png?alt=media&token=7ffacc3a-5819-477a-b6a8-bf1f80b40c09"
+  },
+  "el_2": {
+    "linkedin": "https://www.linkedin.com/in/muhammad-hurricane-7b1845212/",
+    "major": "Mechanical Engineering 19",
+    "name": "Muhammad Hurricane",
+    "position": "Vice Head of Electrical",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FHurricane_1.png?alt=media&token=fc63a5f9-5de0-4014-8147-1a16ee7e6c38"
+  },
+  "el_3": {
+    "linkedin": "https://www.linkedin.com/in/gantagavin/",
+    "major": "Electrical Engineering 20",
+    "name": "Muhammad Gavin Dirgantara",
+    "position": "Staff of Electrical",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FGavin_1.png?alt=media&token=2d49b730-0bb7-45c5-8076-46f2cc98a8d9"
+  },
+  "el_4": {
+    "linkedin": "https://www.linkedin.com/in/felixyamank/",
+    "major": "Electrical Engineering 20",
+    "name": "Felix Yaman Kusuma",
+    "position": "Staff of Electrical",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FFelix_1.png?alt=media&token=0e8b2857-cb07-4e71-adbb-953ad052c7c3"
+  },
+  "ex_1": {
+    "linkedin": "https://www.linkedin.com/in/adliaulia/",
+    "major": "Electrical Engineering 19",
+    "name": "Adli Aulia Fattah Harahap",
+    "position": "Head of Team",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FAdli_1.png?alt=media&token=f39fb7f1-46b4-4ec0-b041-c867f1e11b33"
+  },
+  "ex_2": {
+    "linkedin": "https://www.linkedin.com/in/valdera/",
+    "major": "Electrical Engineering 19",
+    "name": "Fauzan Valdera",
+    "position": "Head of Technical",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FValdera_1.png?alt=media&token=8a6d8f27-9c24-47a9-90c1-a479f9823a5b"
+  },
+  "mc_1": {
+    "linkedin": "https://www.linkedin.com/in/christofer21/",
+    "major": "Mechanical Engineering 19",
+    "name": "Christofer",
+    "position": "Head of Mechanical",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FChristofer_1.png?alt=media&token=9fe0b67d-8b72-468d-a28f-e304b5082edf"
+  },
+  "mc_2": {
+    "linkedin": "https://www.linkedin.com/in/vincent-brendli-kusuma/",
+    "major": "Mechanical Engineering 19",
+    "name": "Vincent Brendli",
+    "position": "Vice Head of Mechanical",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FVincent_2.png?alt=media&token=cf20d94e-e35c-45d5-941d-adbbfed8034d"
+  },
+  "mc_3": {
+    "linkedin": "https://www.linkedin.com/in/reynardhenderson/",
+    "major": "Electrical Engineering 19",
+    "name": "Reynard Henderson",
+    "position": "Vice Head of Mechanical",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FReynard_1.png?alt=media&token=19e6a1a3-5d02-4ccf-9acd-d306aab86059"
+  },
+  "mc_4": {
+    "major": "Computer Engineering 20",
+    "name": "Gemilang Bagas Ramadhani",
+    "position": "Staff of Mechanical",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FGemilang_1.png?alt=media&token=147b9ce4-0b8d-4a17-90f4-baafabc68008"
+  },
+  "mc_5": {
+    "linkedin": "https://www.linkedin.com/in/abu-bakar-aakif-muhammad-9b43a7212/",
+    "major": "Electrical Engineer 20",
+    "name": "Abu Bakar Aakif Muhammad",
+    "position": "Staff of Mechanical",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FAakif_3.png?alt=media&token=deea77a2-199c-4025-a927-5ddc1d419b50"
+  },
+  "mg_1": {
+    "linkedin": "https://www.linkedin.com/in/esterviniaa0312/",
+    "major": "Biomedical Engineering",
+    "name": "Ester Vinia",
+    "position": "Head of Managerial",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FEster_1.png?alt=media&token=a73f0873-1aa1-4cbe-a6fe-8fdb59e86207"
+  },
+  "mg_2": {
+    "linkedin": "https://www.linkedin.com/in/valerieolives/",
+    "major": "Electrical Engineering 20",
+    "name": "Valerie Olive Suryono",
+    "position": "Staff of Managerial",
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/member%2FOlive_1.png?alt=media&token=96ce2d17-8db5-41a4-b46a-3815bc27720b"
+  }
+}
