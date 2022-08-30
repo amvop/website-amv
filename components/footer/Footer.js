@@ -41,12 +41,11 @@ const Footer = ({ dataSocial = socials, dataLink = links }) => {
           {dataSocial.map((item) => (
             <li key={item.link}>
               <ChakraLink
-                href="https://www.facebook.com/"
+                href={item.link}
                 rel="noopener noreferrer"
                 target="_blank"
               >
                 <div className="cursor-pointer text-white transition hover:text-white/75">
-                  <span className="sr-only">Facebook</span>
                   <div className="child:w-6 child:h-6 child-hover:scale-110 transition-all child:duration-100">
                     {item.icon}
                   </div>
@@ -56,7 +55,7 @@ const Footer = ({ dataSocial = socials, dataLink = links }) => {
           ))}
         </ul>
       </div>
-    </footer>
+    </footer >
   );
 };
 

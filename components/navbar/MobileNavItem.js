@@ -17,26 +17,28 @@ const MobileNavItem = ({ label, children, href }) => {
   return (
     <Stack spacing={4} onClick={children && onToggle}>
       <Link href={href ?? "/"} passHref>
-        <Flex
-          py={2}
-          as={Text}
-          justify={"space-between"}
-          align={"center"}
-          textDecoration={"none"}
-        >
-          <Text fontWeight={600} color={"gray.200"}>
-            {label}
-          </Text>
-          {children && (
-            <Icon
-              as={ChevronDownIcon}
-              transition={"all .25s ease-in-out"}
-              transform={isOpen ? "rotate(180deg)" : ""}
-              w={6}
-              h={6}
-            />
-          )}
-        </Flex>
+        <div className="hover:cursor-pointer">
+          <Flex
+            py={2}
+            // as={Text}
+            justify={"space-between"}
+            align={"center"}
+            textDecoration={"none"}
+          >
+            <Text fontWeight={600} color={"gray.200"}>
+              {label}
+            </Text>
+            {children && (
+              <Icon
+                as={ChevronDownIcon}
+                transition={"all .25s ease-in-out"}
+                transform={isOpen ? "rotate(180deg)" : ""}
+                w={6}
+                h={6}
+              />
+            )}
+          </Flex>
+        </div>
       </Link>
       <Collapse in={isOpen} animateOpacity style={{ marginTop: "0!important" }}>
         <Stack
@@ -58,7 +60,7 @@ const MobileNavItem = ({ label, children, href }) => {
             ))}
         </Stack>
       </Collapse>
-    </Stack>
+    </Stack >
   );
 };
 

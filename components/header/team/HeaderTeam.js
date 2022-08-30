@@ -13,7 +13,7 @@ const icons = {
 const HeaderTeam = ({ divisions }) => {
   return (
     <section className="py-10 bg-background flex justify-center">
-      <div className="container px-6 py-10 mx-auto">
+      <div className="container px-6 py-10 mx-auto lg:mx-20">
         <h1 className="text-4xl  font-bold capitalize font-display md:text-5xl text-white">
           explore our <br /> <p className="text-primary-400">awesome Members</p>
         </h1>

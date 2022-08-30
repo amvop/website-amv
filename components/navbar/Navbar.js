@@ -96,7 +96,11 @@ export default function Navbar() {
           />
         </Flex>
         <Flex flex={{ base: 1 }} justify={{ base: "center", md: "start" }}>
-          <Image src="./asset/logo_amv.png" alt="logo amv" width={"20"} />
+          <Link href="/">
+            <div className="hover:cursor-pointer flex justify-center items-center">
+              <Image src="./asset/logo_amv.png" alt="logo amv" width={"20"} />
+            </div>
+          </Link>
           <Flex display={{ base: "none", md: "flex" }} ml={10}>
             <DesktopNav navItems={NAV_ITEMS} />
           </Flex>
