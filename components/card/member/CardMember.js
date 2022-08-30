@@ -6,7 +6,7 @@ const CardMember = ({ member }) => {
     <div className="flex flex-col justify-center hover:shadow-lg duration-150 hover:shadow-primary-400 w-full px-8 mx-6 my-12 text-center rounded-md md:w-96 lg:w-80 xl:w-64 bg-gray-100 text-gray-800">
       <Image
         alt=""
-        className="self-center flex-shrink-0 w-24 h-24 -mt-12 bg-center bg-cover rounded-full bg-white"
+        className="self-center flex-shrink-0 w-24 h-24 -mt-12 bg-center bg-cover rounded-full bg-white object-cover"
         src={member.image}
       />
       <div className="flex-1 my-4">
