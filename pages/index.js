@@ -8,11 +8,14 @@ import CTAMember from "@components/cta/member/CTAMember";
 import CTASubscribe from "@components/cta/subscribe/CTASubscribe";
 import GridAchievement from "@components/grid/achievement/GridAchievement";
 import Sponsor from "@components/sponsor/Sponsor";
+import SponsorCurrent from "@components/sponsor-current/SponsorCurrent";
 import CTAInstagram from "@components/cta/documentation/CTAInstagram";
 import { readData } from "@utils/jsonify";
+import { BiCurrentLocation } from "react-icons/bi";
 
 export default function Home({
   sponsors,
+  sponsors_current,
   robots,
   divisions,
   achievements,
@@ -29,7 +32,8 @@ export default function Home({
       <PreviewProduct robots={robots} />
       <CTAMember divisions={divisions} />
       <Testimonial testimonials={testimonials} />
-      <Sponsor sponsors={sponsors} />
+      <SponsorCurrent sponsors_current={sponsors_current} />
+      {/* <Sponsor sponsors={sponsors} /> */}
       <FAQ faqs={faqs} />
       <Footer />
     </>
@@ -38,6 +42,7 @@ export default function Home({
 
 export async function getStaticProps() {
   const sponsorsData = readData("sponsors.json");
+  const sponsorsCurrentData = readData("sponsors-current.json");
   const robotsData = readData("robots.json");
   const divisionsData = readData("divisions.json");
   const achievementsData = readData("achievements.json");
@@ -45,6 +50,7 @@ export async function getStaticProps() {
   const faqsData = readData("faqs.json");
 
   const sponsors = Object.entries(sponsorsData).map(([_, item]) => item);
+  const sponsors_current = Object.entries(sponsorsCurrentData).map(([_,item]) => item);
   const divisions = Object.entries(divisionsData).map(([_, item]) => item);
   const faqs = Object.entries(faqsData).map(([_, item]) => item);
   const achievements = Object.entries(achievementsData).map(
@@ -68,6 +74,7 @@ export async function getStaticProps() {
   return {
     props: {
       sponsors: sponsors,
+      sponsors_current: sponsors_current,
       robots: robots,
       divisions: divisions,
       achievements: achievements,

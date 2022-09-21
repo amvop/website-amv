@@ -1,0 +1,27 @@
+{
+  "sp_1": {
+    "name": "Adaro Logistic",
+    "priority": 1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/sponsor%2Fadaro-logistics.png?alt=media&token=830079fe-4038-4e8d-92bd-812f9f78d535"
+  },
+  "sp_2": {
+    "name": "Jasa Marga",
+    "priority": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/sponsor%2Fjasa%20marga.png?alt=media&token=26ed4b14-672a-4d48-92d5-9de0274df4f2"
+  },
+  "sp_3": {
+    "name": "Pondok Indah",
+    "priority": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/sponsor%2Flogo%20pondok%20indah%20transparan%20hi%20res.png?alt=media&token=0d33f095-33a0-42bc-be4e-3bc8ecdf9ce4"
+  },
+  "sp_4": {
+    "name": "Petrosea",
+    "priority": 1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/sponsor%2FPTRO%20Logo_no%20wordmark.png?alt=media&token=d8e99367-e11f-4e82-994b-e69407643c8a"
+  },
+  "sp_5": {
+    "name": "Telkomsel",
+    "priority": 2,
+    "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/sponsor%2Ftelkomsel.png?alt=media&token=448efa27-a966-46f8-807e-ed1502174866"
+  }
+}
