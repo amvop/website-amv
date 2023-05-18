@@ -13,10 +13,10 @@ export const links = [
     text: "Achievements",
     link: "/achievement",
   },
-  {
+  /*{
     text: "Blogs",
     link: "/blog",
-  },
+  },*/
   // {
   //   text: "Careers",
   //   link: "/registration",

@@ -59,10 +59,10 @@ const NAV_ITEMS = [
     label: "Products",
     href: "/robot",
   },
-  {
+  /*{
     label: "Blogs",
     href: "/blog",
-  },
+  },*/
 ];
 
 export default function Navbar() {
