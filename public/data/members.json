@@ -1,186 +1,181 @@
 {
   "ai_1": {
-    "linkedin": "https://www.linkedin.com/in/evanzzer/",
-    "major": "Computer Engineering 19",
-    "name": "Evans Hebert",
-    "position": "Head of Artificial Intelligence",
-    "image": "/asset/members/Evans.png"
-  },
-  "ai_2": {
-    "major": "Computer Science 19",
-    "name": "Prajna Prasetya",
-    "position": "Vice Head of Artificial Intelligence",
-    "image": "/asset/members/Prajna.jpg"
-  },
-  "ai_3": {
-    "linkedin": "https://www.linkedin.com/in/rizky-rivaldi-ramadhan-68895b206/",
-    "major": "Electrical Engineering 20",
-    "name": "Rizky Rivaldi",
-    "position": "Staff of Artificial Intelligence",
-    "image": "/asset/members/Memet.png"
-  },
-  "ai_4": {
     "linkedin": "https://www.linkedin.com/in/virdian-harun-prayoga-b99aa3212/",
     "major": "Computer Science 20",
     "name": "Virdian Harun Prayoga",
-    "position": "Staff of Artificial Intelligence",
+    "position": "Head of Artificial Intelligence",
     "image": "/asset/members/Virdi.png"
   },
-  "ai_5": {
+  "ai_2": {
     "linkedin": "https://www.linkedin.com/in/glenefelix/",
     "major": "Actuarial 20",
     "name": "Glene Felix",
-    "position": "Staff of Artificial Intelligence",
+    "position": "Vice Head of Artificial Intelligence",
     "image": "/asset/members/Glene.png"
   },
-  "ai_6": {
+  "ai_3": {
     "linkedin": "https://www.linkedin.com/in/althaf-n-294baa12a/",
     "major": "Computer Engineering 21",
     "name": "Althaf Nafi Anwar",
-    "position": "OJT of Artificial Intelligence",
+    "position": "Staff of Artificial Intelligence",
     "image": "/asset/members/Althaf.jpg"
   },
-  "ai_7": {
+  "ai_4": {
     "major": "Computer Science 21",
     "name": "Rahmat Bryan Naufal",
-    "position": "OJT of Artificial Intelligence",
+    "position": "Staff of Artificial Intelligence",
     "image": "/asset/members/Bryan.png"
   },
-  "ai_8": {
+  "ai_5": {
     "linkedin": "https://www.linkedin.com/in/steffinatalie/",
     "major": "Electrical Engineering 21",
     "name": "Steffi Natalie Paliyama",
-    "position": "OJT of Artificial Intelligence",
+    "position": "Staff of Artificial Intelligence",
     "image": "/asset/members/Steffi.png"
   },
+  "ai_6": {
+    "linkedin": "https://www.linkedin.com/in/muhamad-jason-tejasukmana/",
+    "major": "Physics 22",
+    "name": "Muhamad Jason Tejasukmana Al-Farabi",
+    "position": "OJT of Artificial Intelligence",
+    "image": "/asset/members/placeholder.png"
+  },
+  "ai_7": {
+    "linkedin": "https://www.linkedin.com/in/rachel-mathilda-7bbb63245/",
+    "major": "Computer Science 22",
+    "name": "Rachel Mathilda",
+    "position": "OJT of Artificial Intelligence",
+    "image": "/asset/members/placeholder.png"
+  },
+  "ai_8": {
+    "linkedin": "https://www.linkedin.com/in/shaquilleatharadista/",
+    "major": "Computer Science 22",
+    "name": "Shaquille Athar Adista",
+    "position": "OJT of Artificial Intelligence",
+    "image": "/asset/members/placeholder.png"
+  },
   "el_1": {
-    "linkedin": "https://www.linkedin.com/in/m-akbar-attallah-9b03431a1/",
-    "major": "Electrical Engineering 19",
-    "name": "Muhammad Akbar Attalah",
-    "position": "Head of Electrical",
-    "image": "/asset/members/Akbar.png"
-  },
-  "el_2": {
-    "linkedin": "https://www.linkedin.com/in/muhammad-hurricane-7b1845212/",
-    "major": "Mechanical Engineering 19",
-    "name": "Muhammad Hurricane",
-    "position": "Vice Head of Electrical",
-    "image": "/asset/members/Hurricane.jpg"
-  },
-  "el_3": {
-    "linkedin": "https://www.linkedin.com/in/gantagavin/",
-    "major": "Electrical Engineering 20",
-    "name": "Muhammad Gavin Dirgantara",
-    "position": "Staff of Electrical",
-    "image": "/asset/members/Gavin.png"
-  },
-  "el_4": {
-    "linkedin": "https://www.linkedin.com/in/felixyamank/",
-    "major": "Electrical Engineering 20",
-    "name": "Felix Yaman Kusuma",
-    "position": "Staff of Electrical",
-    "image": "/asset/members/Felix.png"
-  },
-  "el_5": {
     "linkedin": "https://www.linkedin.com/in/maprabowo/",
     "major": "Electrical Engineering 20",
     "name": "Mahardhika Adhi Prabowo",
-    "position": "OJT of Electrical",
+    "position": "Head of Electrical",
     "image": "/asset/members/Dhika.png"
   },
-  "el_6": {
+  "el_2": {
     "major": "Electrical Engineering 21",
     "name": "Umar Maulana",
-    "position": "OJT of Electrical",
+    "position": "Staff of Electrical",
     "image": "/asset/members/Umar.png"
   },
-  "el_7": {
+  "el_3": {
     "linkedin": "https://www.linkedin.com/in/zaki-ananda-542730219/",
     "major": "Computer Engineering 21",
     "name": "Zaki Ananda",
-    "position": "OJT of Electrical",
+    "position": "Staff of Electrical",
     "image": "/asset/members/Zaki.png"
   },
+  "el_4": {
+    "linkedin": "https://www.linkedin.com/in/christopher-sutandar-19167421b/",
+    "major": "Computer Engineering 22",
+    "name": "Christopher Sutandar",
+    "position": "OJT of Electrical",
+    "image": "/asset/members/placeholder.png"
+  },
+  "el_5": {
+    "linkedin": "https://www.linkedin.com/in/daniel-niko-mardjaja/",
+    "major": "Computer Engineering 22",
+    "name": "Daniel Niko Mardjaja",
+    "position": "OJT of Electrical",
+    "image": "/asset/members/placeholder.png"
+  },
+  "el_6": {
+    "linkedin": "https://www.linkedin.com/in/mohamad-abdillah-b29530245/",
+    "major": "Physics 22",
+    "name": "Mohamad Abdillah",
+    "position": "OJT of Electrical",
+    "image": "/asset/members/placeholder.png"
+  },
   "ex_1": {
-    "linkedin": "https://www.linkedin.com/in/adliaulia/",
-    "major": "Electrical Engineering 19",
-    "name": "Adli Aulia Fattah Harahap",
+    "linkedin": "https://www.linkedin.com/in/rizky-rivaldi-ramadhan-68895b206/",
+    "major": "Electrical Engineering 20",
+    "name": "Rizky Rivaldi",
     "position": "Head of Team",
-    "image": "/asset/members/Adli.png"
+    "image": "/asset/members/Memet.png"
   },
   "ex_2": {
-    "linkedin": "https://www.linkedin.com/in/valdera/",
-    "major": "Electrical Engineering 19",
-    "name": "Fauzan Valdera",
+    "linkedin": "https://www.linkedin.com/in/felixyamank/",
+    "major": "Electrical Engineering 20",
+    "name": "Felix Yaman Kusuma",
     "position": "Head of Technical",
-    "image": "/asset/members/Valdera.png"
+    "image": "/asset/members/Felix.png"
   },
   "mc_1": {
-    "linkedin": "https://www.linkedin.com/in/christofer21/",
-    "major": "Naval Architecture and Marine Engineering 19",
-    "name": "Christofer",
-    "position": "Head of Mechanical",
-    "image": "/asset/members/Chris.png"
-  },
-  "mc_2": {
-    "linkedin": "https://www.linkedin.com/in/vincent-brendli-kusuma/",
-    "major": "Naval Architecture and Marine Engineering 19",
-    "name": "Vincent Brendli",
-    "position": "Vice Head of Mechanical",
-    "image": "/asset/members/Vincent.png"
-  },
-  "mc_3": {
-    "linkedin": "https://www.linkedin.com/in/reynardhenderson/",
-    "major": "Electrical Engineering 19",
-    "name": "Reynard Henderson",
-    "position": "Vice Head of Mechanical",
-    "image": "/asset/members/Reynard.png"
-  },
-  "mc_4": {
-    "major": "Computer Engineering 20",
-    "name": "Gemilang Bagas Ramadhani",
-    "position": "Staff of Mechanical",
-    "image": "/asset/members/Gemilang.png"
-  },
-  "mc_5": {
     "linkedin": "https://www.linkedin.com/in/abu-bakar-aakif-muhammad-9b43a7212/",
     "major": "Electrical Engineering 20",
     "name": "Abu Bakar Aakif Muhammad",
-    "position": "Staff of Mechanical",
+    "position": "Head of Mechanical",
     "image": "/asset/members/Aakif.png"
   },
-  "mc_6": {
+  "mc_2": {
     "linkedin": "https://www.linkedin.com/in/bhamakerti-mohammad-a-1b522a21a/",
     "major": "Mechanical Engineering 21",
     "name": "Bhamakerti Mohammad Aydan",
-    "position": "OJT of Mechanical",
+    "position": "Staff of Mechanical",
     "image": "/asset/members/Bhama.png"
   },
-  "mc_7": {
+  "mc_3": {
     "linkedin": "https://www.linkedin.com/in/hafizhuddin-rasyid-3b2ab921b/",
     "major": "Electrical Engineering 21",
     "name": "Hafizhuddin Rasyid",
-    "position": "OJT of Mechanical",
+    "position": "Staff of Mechanical",
     "image": "/asset/members/Hafizh.png"
   },
-  "mc_8": {
-    "major": "Naval Architecture and Marine Engineering 21",
-    "name": "Muhammad Daffa Nafis Shafwan",
+  "mc_4": {
+    "linkedin": "https://www.linkedin.com/in/ahmad-allaverdi-widjanarko-716131249/",
+    "major": "Naval Architecture and Marine Engineering 22",
+    "name": "Ahmad Allaverdi Widjanarko",
     "position": "OJT of Mechanical",
-    "image": "/asset/members/Daffis.png"
+    "image": "/asset/members/placeholder.png"
+  },
+  "mc_5": {
+    "linkedin": "https://www.linkedin.com/in/ariel-putra-dewa-aramadhan-428116249/",
+    "major": "Mechanical Engineering 22",
+    "name": "Ariel Putra Dewa Aramadhan",
+    "position": "OJT of Mechanical",
+    "image": "/asset/members/placeholder.png"
+  },
+  "mc_6": {
+    "linkedin": "https://www.linkedin.com/in/rangga-dwi-andhika-145987232/",
+    "major": "Biomedical Engineering 22",
+    "name": "Rangga Dwi Andhika",
+    "position": "OJT of Mechanical",
+    "image": "/asset/members/placeholder.png"
   },
   "mg_1": {
-    "linkedin": "https://www.linkedin.com/in/esterviniaa0312/",
-    "major": "Biomedical Engineering",
-    "name": "Ester Vinia",
-    "position": "Head of Managerial",
-    "image": "/asset/members/Ester.png"
-  },
-  "mg_2": {
     "linkedin": "https://www.linkedin.com/in/valerieolives/",
     "major": "Electrical Engineering 20",
     "name": "Valerie Olive Suryono",
-    "position": "Staff of Managerial",
+    "position": "Head of Managerial",
     "image": "/asset/members/Olive.png"
+  },
+  "mg_2": {
+    "linkedin": "https://www.linkedin.com/in/salman-hadi-salman/",
+    "major": "Industrial Engineering 21",
+    "name": "Salman Hadi",
+    "position": "Staff of Managerial",
+    "image": "/asset/members/Salman.png"
+  },
+  "mg_3": {
+    "major": "Electrical Engineering 22",
+    "name": "Kafilia Nadya Shahab",
+    "position": "OJT of Managerial",
+    "image": "/asset/members/placeholder.png"
+  },
+  "mg_4": {
+    "linkedin": "https://www.linkedin.com/in/lim-bodhi-wijaya-55ba76248/",
+    "major": "Information Systems 22",
+    "name": "Lim Bodhi Wijaya",
+    "position": "OJT of Managerial",
+    "image": "/asset/members/placeholder.png"
   }
 }
