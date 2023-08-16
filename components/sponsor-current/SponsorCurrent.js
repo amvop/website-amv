@@ -7,10 +7,14 @@ const Sponsor = ({ sponsors_current }) => {
       <h1 className="mb-3 text-4xl md:text-5xl font-bold font-display leading-tight text-center text-primary-400">
         Meet Our Sponsors
       </h1>
-      <p className="mb-16 text-md md:text-lg text-center text-white">
+      <p className="mb-10 text-md md:text-lg text-center text-white">
         Organizations of all sizes trust Autonomous Marine Vehicle to
         continuously engineered outstanding products
       </p>
+
+      <h2 className="mb-5 text-2xl md:text-3xl font-bold font-display leading-tight text-center text-primary-400">
+       Previous Sponsors 
+      </h2>
 
       <div className="flex grid-cols-2 gap-16 mb-16 text-center justify-center items-center lg:grid-cols-6">
         {sponsors_current.filter((item) => item.priority == 1).map((item, i) => (
