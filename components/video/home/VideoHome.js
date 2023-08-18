@@ -4,7 +4,7 @@ import { Icon, Flex, useColorModeValue } from "@chakra-ui/react";
 const VideoHome = () => {
   return (
     <div className="px-10 text-center py-10 pb-20 pt-40 flex flex-col items-center justify-center bg-background">
-      <TextGradient>ONGOING! Makara Pumpkin for SAUVC 2022</TextGradient>
+      <TextGradient>LATEST! Makara Sentinel for KRBAI 2023</TextGradient>
       <div className="my-4 " />
       <Flex
         marginTop={{ base: 0, sm: 10 }}
@@ -21,7 +21,7 @@ const VideoHome = () => {
           zIndex={0}
           color={useColorModeValue("secondary.50", "secondary.600")}
         />
-        <YoutubeVideo videoId={"U8GOqvt0ufw"} width={"680"} />
+        <YoutubeVideo videoId={"2jzpYNTOXJ8"} width={"680"} />
       </Flex>
     </div>
   );

@@ -55,10 +55,10 @@ const CTASauvc = () => {
               </Text>
             </Heading>
             <Text color={"gray.400"} className="font-body">
-              Our latest robot is called <b>Makara Pumpkin</b>. Makara Pumpkin
+              Our latest robot is called <b>Makara Sentinel</b>. Makara Sentinel
               is an ROV that consists of 6 thrusters which can give great
-              maneuverability and is also equipped with a gripper. It makes
-              Makara Pumpkin{" "}
+              maneuverability and is also equipped with a dropper. It makes
+              Makara Sentinel{" "}
               <b>able to do several tasks and it is autonomous!</b>
             </Text>
             <Stack
@@ -67,7 +67,7 @@ const CTASauvc = () => {
             >
               <Link
                 isExternal
-                href="https://www.youtube.com/watch?v=U8GOqvt0ufw"
+                href="https://www.youtube.com/watch?v=2jzpYNTOXJ8"
               >
                 <Button
                   rounded={"full"}
@@ -111,9 +111,9 @@ const CTASauvc = () => {
                 alt={"Hero Image"}
                 fit={"cover"}
                 align={"center"}
-                w={{ base: "120%", md: "140%", lg: "160%" }}
-                h={{ base: "120%", md: "140%", lg: "160%" }}
-                src={"/asset/makara_pumpkin.svg"}
+                w={{ base: "100%", md: "120%", lg: "140%" }}
+                h={{ base: "100%", md: "120%", lg: "140%" }}
+                src={"/asset/makara_sentinel.png"}
               />
             </Box>
           </Flex>
