@@ -16,11 +16,11 @@ const Sponsor = ({ sponsors_current }) => {
        Previous Sponsors 
       </h2>
 
-      <div className="flex grid-cols-2 gap-16 mb-16 text-center justify-center items-center lg:grid-cols-6">
+      <div className="flex flex-wrap grid-cols-2 gap-16 mb-16 text-center justify-center items-center lg:grid-cols-6">
         {sponsors_current.filter((item) => item.priority == 1).map((item, i) => (
           <div
             key={i}
-            className="flex items-center justify-center py-8 px-8 bg-slate-200 rounded-lg shadow-md"
+            className="flex min-w-1/4 items-center justify-center py-8 px-8 bg-slate-200 rounded-lg shadow-md"
           ><Image
                 src={item.image}
                 alt={item.name}
@@ -30,7 +30,7 @@ const Sponsor = ({ sponsors_current }) => {
         ))}
       </div>
 
-      <div className="flex grid-cols-2 gap-16 mb-16 text-center justify-center items-center lg:grid-cols-6">
+      <div className="flex flex-wrap grid-cols-2 gap-16 mb-16 text-center justify-center items-center lg:grid-cols-6 ">
         {sponsors_current.filter((item) => item.priority == 2).map((item, i) => (
           <div
             key={i}
@@ -44,11 +44,11 @@ const Sponsor = ({ sponsors_current }) => {
         ))}
       </div>
 
-      <div className="flex grid-cols-2 gap-16 mb-16 text-center justify-center items-center lg:grid-cols-6">
+      <div className="flex flex-wrap grid-cols-2 gap-16 mb-16 text-center justify-center items-center lg:grid-cols-6">
         {sponsors_current.filter((item) => item.priority == 3).map((item, i) => (
           <div
             key={i}
-            className="flex items-center justify-center py-8 px-8 bg-slate-200 rounded-lg shadow-md"
+            className="flex min-w-1/4 items-center justify-center py-8 px-8 bg-slate-200 rounded-lg shadow-md"
           ><Image
                 src={item.image}
                 alt={item.name}
