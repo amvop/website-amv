@@ -59,6 +59,10 @@ const NAV_ITEMS = [
     label: "Products",
     href: "/robot",
   },
+  {
+    label: "Sponsors",
+    href: "#sponsors"
+  },
   /*{
     label: "Blogs",
     href: "/blog",
@@ -69,7 +73,7 @@ export default function Navbar() {
   const { isOpen, onToggle } = useDisclosure();
 
   return (
-    <Box zIndex={1000} className="bg-background">
+    <Box zIndex={1000} className="bg-background" position="fixed" w="100%">
       <Flex
         className="bg-navbar"
         color={"white"}

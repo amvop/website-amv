@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const Sponsor = ({ sponsors_current }) => {
   return (
-    <section className="px-20 py-24 mx-auto bg-background">
+    <section id="sponsors" className="px-20 py-24 mx-auto bg-background">
       <h1 className="mb-3 text-4xl md:text-5xl font-bold font-display leading-tight text-center text-primary-400">
         Meet Our Sponsors
       </h1>

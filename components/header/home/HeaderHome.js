@@ -1,5 +1,7 @@
 import { Image } from "@chakra-ui/react";
 import TextGlitch from "@components/text/glitch/TextGlitch";
+import MovingGradient from "@components/text/movingGradient/movingGradient";
+import TextGradient from "@components/text/gradient/TextGradient";
 import { Link as ScLink, animateScroll as scroll } from "react-scroll";
 
 const HeaderHome = () => {
@@ -24,9 +26,9 @@ const HeaderHome = () => {
           <div className="flex flex-col items-center justify-between xl:flex-row">
             <div className="w-full max-w-xl mb-12 xl:mb-0 xl:pr-16 xl:w-7/12">
               <div className="max-w-lg mb-6 font-display text-3xl font-bold tracking-tight text-white sm:text-5xl sm:leading-none">
-                <TextGlitch>Autonomous Marine Vehicle</TextGlitch>
+                <MovingGradient>Autonomous Marine Vehicle</MovingGradient>
                 <br className="hidden" />
-                <TextGlitch>Universitas Indonesia</TextGlitch>
+                <MovingGradient>Universitas Indonesia</MovingGradient>
               </div>
               <p className="max-w-xl font-medium font-body mb-7 text-base text-gray-200 md:text-lg">
                 <b>AMV UI is a vessel:</b> a place for the bright minds to

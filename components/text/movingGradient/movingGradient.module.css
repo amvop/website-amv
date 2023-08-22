@@ -1,0 +1,26 @@
+.wrapper {
+    text-align: left;
+		color: #fff;
+		font-size: 3rem;
+		text-transform: uppercase;
+		font-weight: 700;
+		/*font-family: "Josefin Sans", sans-serif; */
+		/*background: linear-gradient(to right,#095fab 1%, #25abe7 25%, #57d75b 50%, #25abe8 75%, #095fab 100%); */
+    background: linear-gradient(to right, #93cbf1 0%, #87f4b5 50%, #93cbf1 100%);
+		background-size: auto auto;
+		background-clip: border-box;
+		background-size: 200% auto;
+		color: #fff;
+		background-clip: text;
+		text-fill-color: transparent;
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		animation: textclip 1.5s linear infinite;
+		display: inline-block;
+}
+
+@keyframes textclip {
+	to {
+		background-position: 200% center;
+	}
+}
