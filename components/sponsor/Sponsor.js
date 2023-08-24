@@ -18,7 +18,7 @@ const Sponsor = ({ sponsors }) => {
             key={i}
             className="flex items-center justify-center py-5 px-5 bg-slate-200 rounded-lg shadow-md"
           >
-            <Image
+            <Image 
               src={item.image}
               alt="Sponsor"
               className="block object-contain h-16"

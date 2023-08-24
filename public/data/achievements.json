@@ -1,80 +1,95 @@
-{
-  "ac_1": {
+{ 
+  "ac_1":{
+    "description": "Kontes Robot Indonesia (KRI) 2023 is a competition held by the National Achievement Center (Puspresnas) and the Ministry of Research, Technology and Higher Education. In 2023, it held at Universitas Semarang. AMV UI joined the Kontes Robot Bawah Air Indonesia (KRBAI) category by using Makara Sentinel that won 2nd place in region level.", 
+    "name": "2nd place KRI 2023",
+    "time": "2023"
+  }, 
+  "ac_2":{
+    "description": "Technogine is a competition held by Engineering Physics Telkom University. AMV joined the Remotely Operated Underwater Vehicle category and won 3rd place by using Makara Hako.", 
+    "name": "3rd place Technogine 2023",
+    "time": "2023"
+  },
+  "ac_3":{
+    "description": "KKCTBN (Kontes Kapal Cepat Tak Berawak Nasional) is a competition under the Ministry of Research, Technology and Higher Education and in 2022 the theme is \"Digital Shipping Technology Innovation and Augmented Reality to Support National Security Defense\". AMV UI joined the Autonomous Semi Submarine Drone (ASSD) category and by using Makara Perry won 2nd.", 
+    "name": "2nd place KKCTBN 2022",
+    "time": "2022"
+  },
+  "ac_4": {
     "description": "Smartphone Controlled Boat Competition (SCBC) 2021 is a competition initiated by Teknomarin Club UTM, focusing on exposure of students about the basic concepts on Internet of Things (IOT) & Electronic DIY projects. With MAKARA LITE I, we succeeded in winning first place in this competition.",
     "name": "1st place SCBC 2021",
     "time": "2021"
   },
-  "ac_2": {
+  "ac_5": {
     "description": "Smartphone Controlled Boat Competition (SCBC) 2021 is a competition initiated by Teknomarin Club UTM, focusing on exposure of students about the basic concepts on Internet of Things (IOT) & Electronic DIY projects. With MAKARA LITE II, we succeeded in winning second place in this competition.",
     "name": "2nd place SCBC 2021",
     "time": "2021"
   },
-  "ac_3": {
-    "description": "KKCTBN (Kontes Kapal Cepat Tak Berawak Nasional) is a competition under the Ministry of Research, Technology and Higher Education and in 2021 the theme is \"Maritime Innovation Through Digital Technology to Support Defense Independence and National Security.\" AMV UI joined the Autonomous Semi Submarine Surface Vehicle (ASSV) category and by using Makara Phantom won 2nd place.",
+  "ac_6": {
+    "description": "KKCTBN (Kontes Kapal Cepat Tak Berawak Nasional) is a competition under the Ministry of Research, Technology and Higher Education and in 2021 the theme is \"Maritime Innovation Through Digital Technology to Support Defense Independence and National Security\". AMV UI joined the Autonomous Semi Submarine Surface Vehicle (ASSV) category and by using Makara Phantom won 2nd place.",
     "name": "2nd place KKCTBN 2021",
     "time": "2021"
   },
-  "ac_4": {
+  "ac_7": {
     "description": "The 14th International Roboboat Competition was held in 2021, and with Makara MH4 XX  AMV UI won 3rd place in the sensor optimization category.",
     "name": "3rd place 14th AUVSI International Roboboat Competition",
     "time": "2021"
   },
-  "ac_5": {
+  "ac_8": {
     "description": "The MATE ROV Competition uses remotely operated vehicles (a.k.a. underwater robots) to inspire and challenge students to learn and creatively apply science, technology, engineering, and math (STEM) to solve real-world problems. With Makara 08 Mark II, AMV UI won the  1st place on 3rd ASEAN MATE 2019. ",
     "name": "1st place 3rd ASEAN MATE Underwater Robot Competition",
     "time": "2019"
   },
-  "ac_6": {
+  "ac_9": {
     "description": "The 12th International Roboboat Competition was held in 2019, and with Makara 09 AMV UI won 3rd place in the sensor optimization category.",
     "name": "3rd place 12th AUVSI International Roboboat Competition",
     "time": "2019"
   },
-  "ac_7": {
+  "ac_10": {
     "description": "KKCTBN (Kontes Kapal Cepat Tak Berawak Nasional) is a competition under the Ministry of Research, Technology and Higher Education and in 2019 the theme is \"Fast Ship Technology to Maintain the Sovereignty of the Republic of Indonesia in the Industrial Revolution Era 4.0\" AMV UI joined the Autonomous Surface Vehicle (ASV) category and by using Makara 09 Mark II won 3rd place.",
     "name": "3rd place KKCTBN 2019",
     "time": "2019"
   },
-  "ac_8": {
+  "ac_11": {
     "description": "KKCTBN (Kontes Kapal Cepat Tak Berawak Nasional) is a competition under the Ministry of Research, Technology and Higher Education and in 2018 the theme is \"Fast Ship Technology to Support the Utilization of Indonesia's Marine Resources\" AMV UI joined the Autonomous Surface Vehicle (ASV) category and by using Makara 09 won 2nd place.",
     "name": "2nd place KKCTBN 2018",
     "time": "2018"
   },
-  "ac_9": {
+  "ac_12": {
     "description": "The MATE ROV Competition uses remotely operated vehicles (a.k.a. underwater robots) to inspire and challenge students to learn and creatively apply science, technology, engineering, and math (STEM) to solve real-world problems. With Makara 08, AMV UI won the  1st place on 2nd ASEAN MATE 2018.",
     "name": "1st place 2nd ASEAN Mate Underwater Robot Competition",
     "time": "2018"
   },
-  "ac_10": {
+  "ac_13": {
     "description": "The 10th International Roboboat Competition was held in 2017, and with Makara 07 & Aero Makara, AMV UI became finalist.",
     "name": "Finalist 10th AUVSI International Roboboat Competition",
     "time": "2017"
   },
-  "ac_11": {
+  "ac_14": {
     "description": "The 10th International Roboboat Competition was held in 2016, and with Makara 05, AMV UI became finalist.",
     "name": "5th place 9th AUVSI International Roboboat Competition",
     "time": "2016"
   },
-  "ac_12": {
+  "ac_15": {
     "description": "The Tanoto Student Research Award (TSRA) is a program initiated by the Tanoto Foundation as a contribution in developing individual potential, building a strong generation of future Indonesian leaders, improving the quality of education and living standards of the community. With Makara 05, AMV UI won the 1st place on TSRA 2016.",
     "name": "1st place Tanoto Student Research 2016",
     "time": "2016"
   },
-  "ac_13": {
+  "ac_16": {
     "description": "KKCTBN (Kontes Kapal Cepat Tak Berawak Nasional) is a competition under the Ministry of Research, Technology and Higher Education and in 2014 the theme is \"Ship Robot For National Defense\" AMV UI joined the Autonomous Surface Vehicle (ASV) category and by using Makara 04 won 3rd place.",
     "name": "3rd place KKCTBN 2014",
     "time": "2014"
   },
-  "ac_14": {
+  "ac_17": {
     "description": "In 2012, with Makara 01, AMV UI won the 3rd place in Innovative Creation Competition Universitas Indonesia.",
     "name": "3rd place Innovative Creation Competition Universitas Indonesia",
     "time": "2012"
   },
-  "ac_15": {
+  "ac_18": {
     "description": "With Makara 02, AMV UI won the best design in KKCTBN 2012.",
     "name": "Best Robot Design",
     "time": "2012"
   },
-  "ac_16": {
+  "ac_19": {
     "description": "In 2012, AMV UI cooperated with the Indonesian Navy in the SEA GHOST Project using Makara 02. Also in 2012, AMV UI participated in DRPM UI Research with National Search and Rescue Agency using USV for civilian purposes with Makara 03. In 2019, AMV UI cooperated with DIIB UI on PHD-Pro Project using Makara 08 Mark II.",
     "name": "Research & Project",
     "time": "2012"
