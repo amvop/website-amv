@@ -19,9 +19,9 @@ class MyDocument extends Document {
             rel="stylesheet"
             href="https://unpkg.com/swiper/swiper-bundle.min.css"
           />
-          <link rel="shortcut icon" href="../public/asset/logo.ico" />
-          <link rel="apple-touch-icon" sizes="180x180" href="../public/asset/logo.ico" />
-          <link rel="icon" href="../public/asset/logo.ico"/>
+          <link rel="shortcut icon" href="../public/asset/logo.png" />
+          <link rel="apple-touch-icon" sizes="180x180" href="../public/asset/logo.png" />
+          <link rel="icon" href="../public/asset/logo.png"/>
         </Head>
         <body>
           <Main />
