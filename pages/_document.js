@@ -1,5 +1,6 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
 
+import logo_amv from "../public/asset"
 
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
