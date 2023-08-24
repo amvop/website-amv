@@ -20,7 +20,7 @@ class MyDocument extends Document {
             href="https://unpkg.com/swiper/swiper-bundle.min.css"
           />
           <link 
-            rel= "shortcut icon"
+            rel= "icon"
             href= "../public/asset/logo.png"
           />
         </Head>
