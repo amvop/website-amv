@@ -61,7 +61,7 @@ const NAV_ITEMS = [
   },
   {
     label: "Sponsors",
-    href: "#sponsors"
+    href: "../#sponsors"
   },
   /*{
     label: "Blogs",

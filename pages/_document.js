@@ -1,6 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
 
-import logo_amv from "../public/asset"
 
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
@@ -20,10 +19,6 @@ class MyDocument extends Document {
           <link
             rel="stylesheet"
             href="https://unpkg.com/swiper/swiper-bundle.min.css"
-          />
-          <link
-            rel= "shortcut icon"
-            href= {logo_amv}
           />
         </Head>
         <body>
