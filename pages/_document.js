@@ -19,10 +19,10 @@ class MyDocument extends Document {
             rel="stylesheet"
             href="https://unpkg.com/swiper/swiper-bundle.min.css"
           />
-          <link 
-            rel= "icon"
-            href= "../public/asset/logo.png"
-          />
+          <link rel="shortcut icon" href="../public/asset/logo_amv.png" />
+          <link rel="apple-touch-icon" sizes="180x180" href="../public/asset/logo_amv.png" />
+          <link rel="icon" type="image/png" sizes="32x32" href="../public/asset/logo_amv.png"/>
+          <link rel="icon" type="image/png" sizes="16x16" href="../public/asset/logo_amv.png"/>
         </Head>
         <body>
           <Main />
