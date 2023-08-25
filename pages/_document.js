@@ -19,7 +19,7 @@ class MyDocument extends Document {
             rel="stylesheet"
             href="https://unpkg.com/swiper/swiper-bundle.min.css"
           />
-          <link rel="icon" href="/public/asset/logo.png" sizes="any" />                
+              
         </Head>
         <body>
           <Main />

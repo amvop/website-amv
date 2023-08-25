@@ -11,7 +11,7 @@ const StatAchievement = () => {
           <p className="text-sm sm:text-base">Research Collaborations</p>
         </div>
         <div className="flex flex-col justify-start m-2 lg:m-6">
-          <p className="text-4xl font-bold leading-none lg:text-6xl">18</p>
+          <p className="text-4xl font-bold leading-none lg:text-6xl">21</p>
           <p className="text-sm sm:text-base">Products</p>
         </div>
         <div className="flex flex-col justify-start m-2 lg:m-6">
