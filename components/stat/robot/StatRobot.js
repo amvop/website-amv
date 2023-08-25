@@ -11,7 +11,7 @@ const StatRobot = () => {
             <TbShip className="h-9 w-9 text-gray-800" />
           </div>
           <div className="flex flex-col justify-center align-middle">
-            <p className="text-3xl font-semibold leading-none">20</p>
+            <p className="text-3xl font-semibold leading-none">21</p>
             <p className="capitalize">Products</p>
           </div>
         </div>
