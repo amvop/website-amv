@@ -19,8 +19,8 @@ class MyDocument extends Document {
             rel="stylesheet"
             href="https://unpkg.com/swiper/swiper-bundle.min.css"
           />
-          <link rel="icon" href="../public/favicon.ico" sizes="any" />                
-          <link rel="shortcut icon" href="../public/favicon.ico" />
+          <link rel="icon" href="/public/favicon.ico" sizes="any" />                
+          <link rel="shortcut icon" href="/public/favicon.ico" />
         </Head>
         <body>
           <Main />
