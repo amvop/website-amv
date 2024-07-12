@@ -13,6 +13,19 @@ const Sponsor = ({ sponsors_current }) => {
       </p>
 
       <h2 className="mb-5 text-2xl md:text-3xl font-bold font-display leading-tight text-center text-primary-400">
+        Current Sponsor
+      </h2>
+
+      <div className="flex flex-wrap grid-cols-2 gap-16 mb-24 text-center justify-center items-center lg:grid-cols-6">
+        <div className="flex min-w-1/4 items-center justify-center py-8 px-8 bg-slate-200 rounded-lg shadow-md">
+        <Image 
+        src="asset/sponsor/pertamina.png"
+        alt="Pertamina"
+        className="block object-contain h-56"/>
+        </div>
+      </div>
+
+      <h2 className="mb-5 text-2xl md:text-3xl font-bold font-display leading-tight text-center text-primary-400">
        Previous Sponsors 
       </h2>
 
