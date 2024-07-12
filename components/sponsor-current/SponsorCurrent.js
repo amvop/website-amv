@@ -21,7 +21,7 @@ const Sponsor = ({ sponsors_current }) => {
         <Image 
         src="asset/sponsor/pertamina.png"
         alt="Pertamina"
-        className="block object-contain h-56"/>
+        className="block object-contain md:h-56 h-24"/>
         </div>
       </div>
 
