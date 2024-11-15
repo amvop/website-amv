@@ -19,9 +19,17 @@ const Sponsor = ({ sponsors_current }) => {
       <div className="flex flex-wrap grid-cols-2 gap-16 mb-24 text-center justify-center items-center lg:grid-cols-6">
         <div className="flex min-w-1/4 items-center justify-center py-8 px-8 bg-slate-200 rounded-lg shadow-md">
         <Image 
-        src="asset/sponsor/pertamina.png"
+        src="asset/sponsor/pertamina_1.png"
         alt="Pertamina"
-        className="block object-contain md:h-56 h-24"/>
+        className="block object-contain md:h-56 h-24"
+        width={500}/>
+        </div>
+        <div className="flex min-w-1/4 items-center justify-center py-8 px-8 bg-slate-200 rounded-lg shadow-md">
+        <Image 
+        src="asset/sponsor/pelindo-nobg.png"
+        alt="Pertamina"
+        className="block object-contain md:h-56 h-24"
+        width={500}/>
         </div>
       </div>
 

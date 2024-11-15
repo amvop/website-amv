@@ -23,5 +23,10 @@
     "name": "Telkomsel",
     "priority": 2,
     "image": "https://firebasestorage.googleapis.com/v0/b/amv-web-e92ff.appspot.com/o/sponsor%2Ftelkomsel.png?alt=media&token=448efa27-a966-46f8-807e-ed1502174866"
+  },
+  "sp_6":{
+    "name": "Pertamina",
+    "priority": 1,
+    "image": "../asset/sponsor/pertamina.png"
   }
 }
